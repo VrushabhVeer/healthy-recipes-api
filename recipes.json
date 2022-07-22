@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Healthy-Moussaka/6ba4f489-a580-4d19-a2aa-5864d704e7b7.jpg",
+        "name": "Healthy Moussaka",
+        "fat": "5g",
+        "protein": "11g",
+        "carbs": "16g",
+        "fiber": "3g",
+        "ingredient": "1 fresh eggplant 8 oz ground turkey,3 cups tomato sauce,1 cup raw onion, chopped ,2 cloves garlic, 1 glass (3.5 fl oz) red wine, 2 tablespoons all-purpose flour, 1 cup nonfat milk, 2 tbsp parmesan cheese, 1/2 cup feta cheese, crumbled",
+        "decs": "Slice eggplant very thinly. Brown ground turkey with onion and garlic. When brown, add tomato sauce and red wine. Let simmer for 15 minutes.Layer eggplant then meat mixture in 13 x 9 pan, ending with meat mixture. Add milk to clean saucepan and slowly stir in flour a little at a time until sauce thickens. Add feta and parmesan cheese. Pour white sauce over the casserole. Bake at 350 degrees until top starts to turn golden brown."
+    },
+    {
+        "id": 2,
+        "img": "https://sparkpeo.hs.llnwd.net/e4/nw/3/8/l381858590.jpg",
+        "name": "Baked Chicken Salsa",
+        "fat": "9g",
+        "protein": "56g",
+        "carbs": "10g",
+        "fiber": "3g",
+        "ingredient": "1 chicken breast, 1/2 cup salsa, 1 jalapeno pepper, sliced (optional), 6 small black olives (optional)",
+        "decs": "Cut a piece of foil large enough to close around the chicken breast. Place the chicken breast onto the foil and pour salsa over top of the breast. Place peppers and olives on top. Wrap the foil around the chicken and fold the ends together tightly and place in an oven dish. Bake at 400 degrees for 45 minutes."
+    },
+    {
+        "id": 3,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/5-Minute-Berry-Smoothie/d702b10b-cab7-4bbd-92a6-6cf53d2131b6.jpg",
+        "name": "Berry Smoothie",
+        "fat": "1g",
+        "protein": "5g",
+        "carbs": "26g",
+        "fiber": "2g",
+        "ingredient": "1 cup berries any type (I like Kirkland's Frozen Mixed Berry Blend), 1 small banana, 1 cup Low Fat Vanilla Yogurt (I used Mountain High which is made with fructose, if you use an artificially sweetened product the calories will be lower), 1/2 cup skim milk or enough as needed to make to a drinking consistency",
+        "decs": "Place all ingredients in blender and process to desired consistency. Makes 3 servings approx 3/4 cup each. Minutes to Prepare: 5 Number of Servings: 3"
+    },
+    {
+        "id": 4,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Asparagus-Parmesan/cf0b547a-a3d7-46ea-90da-2789457cc92c.jpg",
+        "name": "Asparagus Parsemen",
+        "fat": "5g",
+        "protein": "4g",
+        "carbs": "4g",
+        "fiber": "2g",
+        "ingredient": "3 cups fresh asparagus, 1 Tbsp Extra Virgin Olive Oil, 1/4 c grated Parmesan, salt and pepper to taste",
+        "decs": "Yummy asparagus baked with Parmesan and olive oil!, Mix above ingredients together in a plastic bag to coat Put on baking sheet for 10 minutes at 400 degrees The calorie count on this is for 4 servings"
+    },
+    {
+        "id": 5,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Pumpkin-Pie-with-Crunchy-Pumpkin-Seed-Crust-/4c0bf828-4f93-498e-a2ad-5168dcc5562c.jpg",
+        "name": "Pumpkin Pie",
+        "fat": "7.2g",
+        "protein": "10g",
+        "carbs": "24.2g",
+        "fiber": "6g",
+        "ingredient": "1 tablespoon light butter, 4 sheets plain or honey graham crackers, 1/4 cup plus 2 tablespoons raw, unsalted pepitas (shelled pumpkin seeds), 1/2 teaspoon cinnamon",
+        "decs": "Preheat the oven to 350 degrees Fahrenheit. Place the pepitas in a dry saute pan that has been set over low heat. Toast the seeds until they start to pop. Add cinnamon to the pan and toss until the seeds start to turn light brown. Place on a plate to cool. Reserve 2 tablespoons of seeds for garnish. Once the seeds have cooled, grind them in a food processor until they are the texture of sand. Add the graham crackers and pulse until the mixture is finely ground. Add the butter and pulse a few times just to combine. Spray an 8 inch pie plate with nonstick cooking spray. Pour the crust mixture into the pie plate and press over the bottom and up the sides of the plate. Bake for 8 minutes, then allow to cool slightly Place the cream cheese in the food processor and process for 1-2 minutes, until it's smooth.Then add the brown sugar and process 1-2 minutes, until the mixture is very smooth. Add the pumpkin, vanilla, milk, and pumpkin pie spice to the mixture and process for 1 minute.Add the egg and egg white, then pulse to combine.Pour the filling into the cooled crust, and bake for 25 minutes.The center will be somewhat jiggly.Remove from the oven to cool. Once cool, garnish with the 2 tablespoons reserved pepitas."
+    },
+    {
+        "id": 6,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Slow-Cooker-Strawberry-Rhubarb-Conserve/785a6816-7bfd-464d-94df-9c2a0ba2db8f.jpg",
+        "name": "Strawberry Rhubarb Converse",
+        "fat": "0g",
+        "protein": "1g",
+        "carbs": "14g",
+        "fiber": "3g",
+        "ingredient": "4 pints fresh strawberries, washed and hulled, 4 stalks rhubarb**, sliced in half lengthwise then chopped into 1/2 inch pieces, 2 lemons, zested* and segmented,1/4 cup brown sugar,mint sprigs for garnish",
+        "decs": "Use a vegetable peeler or paring knife to remove long strips of zest. Add all ingredients except the mint to a slow cooker, stir to combine, and cook on low for two hours. Serve warm or chilled. Garnish with mint sprigs, if desired Store covered in refrigerator for up to 2 weeks."
+    },
+    {
+        "id": 7,
+        "img": "https://sparkpeo.hs.llnwd.net/e4/nw/4/1/l412269353.jpg",
+        "name": "Green Beens with Miso",
+        "fat": "4g",
+        "protein": "3g",
+        "carbs": "9g",
+        "fiber": "3g",
+        "ingredient": "12 ounces green beans, trimmed and washed* (about 3 cups), 1 tablespoon chopped toasted almonds, 1 tablespoon olive oil, 2 tablespoons shallot, chopped fine, 2 cloves garlic, sliced thin, 1 tablespoon miso paste, 1/4 teaspoon black pepper",
+        "decs": "If using frozen green beans, cook according to the package directions. If using fresh, steam in the microwave until crisp tender, or boil them in a medium saucepan for two to three minutes, then drain and plunge into ice water to stop the cooking. Place a large skillet over medium heat, add the oil, and then the shallots and garlic. Cook, stirring constantly, for one minute. Add the miso to the pan and cook another minute as you continue to stir. Stir in 1/2 cup water, then add the green beans. Cook for 2 minutes, remove from pan and sprinkle on the almonds. Serve warm. Serving Size: Makes 4 servings (3/4 cups each)"
+    },
+    {
+        "id": 8,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Healthy-Green-Power-Pops/12fb2cc2-fcca-4d34-adc2-cb93f76f5dbb.jpg",
+        "name": "Healthy Green Power Pops",
+        "fat": "3g",
+        "protein": "1g",
+        "carbs": "11g",
+        "fiber": "2g",
+        "ingredient": "2 medium bananas, juice of 2 limes (1/4 cup), 1 t lime zest, juice of 1 orange, 1 t orange zest, 1 avocados, pit removed and flesh chopped",
+        "decs": "Combine all ingredients in a blender, adding water if necessary to thin it to a pourable liquid consistency. Taste and sweeten if desired. Pour into popsicle molds and freeze until solid. Serving Size: 8 popsicles, about 1/3 cup each, Minutes to Prepare: 10, Number of Servings: 8"
+    },
+    {
+        "id": 9,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Avocado-Bruschetta/02ca4f8b-65d4-4789-be16-218a38934168.jpg",
+        "name": "Avacado Brushetta",
+        "fat": "7g",
+        "protein": "4g",
+        "carbs": "19g",
+        "fiber": "5g",
+        "ingredient": "8 ounces whole-wheat baguette, sliced into 8 (1-inch) pieces, 2 avocados, pit removed, juice of 1 lime, 1 large ripe tomato, diced, excess juice discarded, 2 extra thin slices sweet onion, cut into quarters (see photo), salt and pepper",
+        "decs": "Preheat the oven to 350 F. Spread the baguette slices on a baking sheet. Bake 8-10 minutes, turning halfway through, until the bread is toast  Meanwhile, mash the avocados with the juice of one lime (about two tablespoons) and a pinch each of salt and pepper.  Spread the avocado mixture on top of the baguette slices (1 heaping tablespoon per slice). Top with a couple of pieces of onion and a few chunks of tomato. Sprinkle with a pinch of salt and pepper. Serve immediately."
+    },
+    {
+        "id": 10,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Egg-Stuffed-Sweet-Potatoes/b319d565-326e-489d-86b5-eabd4c36a684.jpg",
+        "name": "Egg-Stuffed Sweet Potatoes",
+        "fat": "10g",
+        "protein": "7g",
+        "carbs": "16g",
+        "fiber": "2g",
+        "ingredient": "2 sweet potatoes, 2 Eggland's Best eggs (large),  2 strips turkey bacon, 1/4 cup shredded cheddar cheese, 1 1/2 teaspoon salt, 1/2 teaspoon pepper, 1 tablespoon extra virgin olive oil",
+        "decs": "Preheat your oven to 400 degrees F. Wash and scrub your sweet potatoes.  Place on a baking sheet, pierce each potato a few times with a fork, and drizzle with extra virgin olive oil.Place in the oven and roast for 45 minutes. When finished, slice them in half lengthwise and let them cool.  Scoop a bit of 'meat' out from the sweet potatoes to make room for the filling.  In a small nonstick skillet over medium heat, place two strips of turkey bacon. Cook until bacon begins to brown and crisp up. Place a napkin on top of a small plate. When bacon is finished, place onto napkin to let grease soak out.  Rinse the skillet and place back on the burner over medium heat. Place eggs in skillet and cook on medium-low for just a few minutes; ~3 minutes. Be sure not to overcook these eggs as they will continue cooking after removed from heat, and will be placed into the oven later on. Break eggs into four equal parts. Place each into the hollow parts of the sweet potatoes. Sprinkle each with salt and pepper."
+    },
+    {
+        "id": 11,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Low-Fat-Zucchini-Brownie/3024e08e-27d9-4f21-850a-a3005f14cfc8.jpg",
+        "name": "Low Fat Zucchini Brownie",
+        "fat": "2g",
+        "protein": "2g",
+        "carbs": "24g",
+        "fiber": "2g",
+        "ingredient": "1/2 cup applesauce, 2 small or medium bananas mashed, 1 1/2 cup sugar, 2 tsp. vanilla extract, 1/2 cup cocoa powder, 1 1/2 tsp. baking soda, 1/2 tsp salt, 2 cups finely shredded zucchini, 2 cups all purpose flour, 1/2 cup walnut pieces",
+        "decs": "Preheat oven to 350 degrees F. Grease and flour an 9x13 inch baking pan. In a large bowl, mix together the applesauce, mashed bananas and sugar. Add vanilla and cocoa and mix together. Then add baking soda, salt, and zucchini and mix together. Add flour and walnuts and mix together. Spread evenly into a prepared pan. Bake for 25 minutes until brownies spring back when gently touched."
+    },
+    {
+        "id": 12,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Clean-Strawberry-Frozen-Yogurt/a4a6a7d3-f035-422d-afee-14da74250903.jpg",
+        "name": "Clean Strawberry Frozen Yogert",
+        "fat": "0g",
+        "protein": "2g",
+        "carbs": "21g",
+        "fiber": "1g",
+        "ingredient": "1 cup strawberries pureed, 2 cups plain, low-fat or no fat greek style yogurt, scant 1/3 cup natural, raw honey, pinch salt",
+        "decs": "With just four all-natural ingredients, you can really feel good about making this frozen yogurt recipe! You can also substitute any fruit puree of your choice when strawberries are out of season. Mix pureed strawberries, yogurt, honey, and pinch of salt in a food processor or blender. Chill the mixture in the refrigerator for 2 hours and then churn in an electric ice cream maker according to manufacturer's directions. Freeze for at least 4 hours before serving."
+    },
+    {
+        "id": 13,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Kitchen-Basics-Perfect-Boiled-Eggs/440a37fd-abfd-4a4f-9b5f-5f854586c666.jpg",
+        "name": "Kitchen Basics: Perfect Boiled Eggs",
+        "fat": "4.8g",
+        "protein": "6g",
+        "carbs": "0.4g",
+        "fiber": "0g",
+        "ingredient": "4 large eggs",
+        "decs": "Place the eggs in the medium saucepan full of water set over medium-high heat. When the water begins to boil, cover the pan and remove it from heat. Leave the eggs in the water for 8-10 minutes. Use a slotted spoon to remove the eggs from the water. Tip: Peel the eggs under cold running water. 1 egg per serving"
+    },
+    {
+        "id": 14,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Asian-Chicken-Salad-/0cfbadd2-afd7-464e-86de-6759377add00.jpg",
+        "name": "Asian Chicken Salad",
+        "fat": "7g",
+        "protein": "11g",
+        "carbs": "18g",
+        "fiber": "4g",
+        "ingredient": "2 cups cooked chicken, skin removed, cut into bite-sized pieces 4 cups cabbage, shredded, 1 cup mushrooms, sliced, 1 cup carrots, grated, 2 tablespoons cilantro, chopped, 1 cucumber, thinly sliced, 3 green onions, thinly sliced, 1 mandarin orange or tangerine, divided into sections, 1/2 cup nonfat Asian or Oriental-style salad dressing, Black pepper",
+        "decs": "1. In a large bowl, combine chicken, cabbage, mushrooms, carrots, cilantro, cucumber, and dressing. Toss well. 2. Top with green onions and tangerine sections. Pepper to taste. Serves 4. Reprinted with permission by Public Health – Seattle & King County"
+    },
+    {
+        "id": 15,
+        "img": "https://sparkpeo.hs.llnwd.net/e4/nw/3/6/l369331125.jpg",
+        "name": "Triple Mushroom Saute With Toasted Walnuts",
+        "fat": "4g",
+        "protein": "4g",
+        "carbs": "9g",
+        "fiber": "2g",
+        "ingredient": "2 Tbsp. walnuts 1 tsp. olive oil, 2 cups thinly sliced portobello mushrooms, stems removed (about 1-2), 2 cups thinly sliced shiitake mushrooms, stems removed (about 6), 2 cups thinly sliced white mushrooms, stems removed (about 6), 2 Tbsp. minced parsley, 2 garlic cloves, minced, 1 Tbsp. balsamic vinegar, 2 tsp. sugar (optional), 1 tsp. lite soy sauce",
+        "decs": "1. In small skillet, toast walnuts over medium heat for 2-3 minutes, until lightly browned. Remove from heat and set aside. 3. In large skillet, heat oil over medium-high heat. Add mushrooms and cook, without stirring, about 2 minutes. Begin stirring. Add parsley and garlic and sauté for 3-5 minutes, or until mushrooms release their liquid and begin to darken. 3. In small bowl, combine balsamic vinegar, sugar and soy sauce. Add to mushrooms and cook 1 minute. 4. Top mushrooms with walnuts and serve. Makes 4 servings (approx 1 cup) The American Institute for Cancer Research (AICR) is the cancer charity that fosters research on diet and cancer and educates the public about the results."
+    },
+    {
+        "id": 16,
+        "img": "https://sparkpeo.hs.llnwd.net/e4/nw/4/3/l436299381.jpg",
+        "name": "Maple Almond Granola",
+        "fat": "11g",
+        "protein": "4g",
+        "carbs": "23g",
+        "fiber": "4g",
+        "ingredient": "1/2 c maple syrup, 1/4 c coconut oil, 1/4 c almond butter, 1 T cinnamon (or more if you prefer your granola to have a stronger cinnamon flavor), 2 1/2 c. rolled oats, 1/4 c ground flax, 1/4 c chia seeds, 1/2 c chopped nuts/seeds (almonds, walnuts, pepitas), 1/4 c unsweetened coconut",
+        "decs": "Mix maple syrup, coconut oil and almond butter together. If your coconut oil is at room temperature, you might need to melt it first. Mix oats, coconut, and cinnamon together, then add to wet ingredients. Pour onto a baking sheet in an even layer. (I use a silicone baking sheet liner, but you can coat the pan with nonstick cooking spray if you prefer.) Bake at 300 degrees for about 30-40 minutes, stirring every 10 minutes. I like my granola to be somewhat raw. Immediately upon removing the granola from the oven, add the chia, flax, seeds/nuts and dried fruit. (The fruit swells and gets sticky in the oven, and raw nuts/seeds retain more of their nutrition. Add a sprinkle of kosher salt and toss well. The salt really brings out the sweetness and other flavors."
+    },
+    {
+        "id": 17,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Banana-Nut-Granola/a0bc3e9c-c2d1-4ad4-940f-39ce1b480328.jpg",
+        "name": "Banana Nut Granola",
+        "fat": "9g",
+        "protein": "8g",
+        "carbs": "36g",
+        "fiber": "6g",
+        "ingredient": "1 cup raw almonds, 1 small ripe banana, 1/2 cup brown rice syrup (or honey or maple syrup), 3 cups barley flakes, 5 cups old-fashioned oats (or all oats), 1/2 cup ground flaxseed, 1/2 cup unsweetened coconut (optional), 1 tablespoon ground cinnamon",
+        "decs": "Preheat oven to 350°F. Place the almonds in a food processor and process until finely ground, about two minutes. Add banana and syrup and process for a minute, until ingredients are smooth and pourable. Place oats and barley in a large bowl, then pour on the banana mixture. Mix well. Spread on a baking sheet and bake for 30 minutes, stirring every 10 minutes. Makes 16 1/2 cup servings. Number of Servings: 16"
+    },
+    {
+        "id": 18,
+        "img": "https://sparkpeo.hs.llnwd.net/e2/guid/Simple-Grilled-Salmon/e5894afe-f7b1-4745-937d-f1dc6864e60d.jpg",
+        "name": "Simple Grilled Salmon",
+        "fat": "9.5g",
+        "protein": "30g",
+        "carbs": "0.4g",
+        "fiber": "0g",
+        "ingredient": "1 1/2 lbs. salmon, 2 tablespoons olive oil, 2 tablespoons fresh dill, 1 garlic clove, minced, 1 tablespoon lemon juice, salt and pepper to taste",
+        "decs": "1. Prepare grill. 2. In a small bowl, combine oil, herbs, garlic, lemon juice, salt and pepper. 3. Using a pastry brush, brush salmon with herbed mixture. 4. Cook on the barbecue until done (salmon is done when it flakes when tested with a fork). Makes 6 servings (4 ounces salmon)"
+    }
+]
